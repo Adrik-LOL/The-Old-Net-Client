@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\bin\Debug\The Old Net.exe.config
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\bin\Debug\The Old Net.exe
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\bin\Debug\The Old Net.pdb
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\bin\Debug\The Old Net.xml
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.vbproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.vbproj.SuggestedBindingRedirects.cache
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The_Old_Net.Form1.resources
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The_Old_Net.Resources.resources
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.vbproj.GenerateResource.cache
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.vbproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.exe
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.xml
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The Old Net.pdb
+C:\Users\adria\Desktop\Creazioni\The Old Net\The Old Net\obj\Debug\The_Old_Net.AboutBox1.resources
